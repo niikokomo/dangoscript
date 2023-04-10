@@ -34,7 +34,7 @@ namespace LittleBustersScriptModifier
         {
             if (string.IsNullOrEmpty(_litbusFolderPath) || !Directory.Exists(_litbusFolderPath))
             {
-                var result = MessageBox.Show("Please select the folder containing LITBUS_WIN32.exe", "Error", MessageBoxButton.OKCancel);
+                var result = MessageBox.Show("Please locate LITBUS_WIN32.exe from the Little Busters! English Edition installation directory", "Error", MessageBoxButton.OKCancel);
                 if (result == MessageBoxResult.OK)
                 {
                     var dialog = new System.Windows.Forms.OpenFileDialog();

@@ -1,0 +1,17 @@
+D:\Libraries\Desktop\source\Dango Script\bin\Debug\Dango Script.exe.config
+D:\Libraries\Desktop\source\Dango Script\bin\Debug\Dango Script.exe
+D:\Libraries\Desktop\source\Dango Script\bin\Debug\Dango Script.pdb
+D:\Libraries\Desktop\source\Dango Script\bin\Debug\Newtonsoft.Json.dll
+D:\Libraries\Desktop\source\Dango Script\bin\Debug\Newtonsoft.Json.xml
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.csproj.AssemblyReference.cache
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\MainWindow.baml
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\MainWindow.g.cs
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\App.g.cs
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script_MarkupCompile.cache
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.g.resources
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango_Script.Properties.Resources.resources
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.csproj.GenerateResource.cache
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.csproj.CoreCompileInputs.cache
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.csproj.CopyComplete
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.exe
+D:\Libraries\Desktop\source\Dango Script\obj\Debug\Dango Script.pdb
