@@ -1,0 +1,21 @@
+﻿<Window x:Class="LittleBustersScriptModifier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dango Script" Height="70" Width="668" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="87*"/>
+            <ColumnDefinition Width="86*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Change Directory" Margin="242,5,308,5" Click="ChangeDirectoryButton_Click" Grid.ColumnSpan="2"/>
+        <Button Content="Load SCRIPT.PAK" Margin="10,5,212,5" Click="BackupButton_Click"/>
+        <Button Content="Push Changes" Margin="126,5,96,5" Click="RunLuckSystemAndLucaSystemToolsButton_Click"/>
+        <Button Content="Restore Backup" Margin="26,5,192,5" Click="RestoreBackupButton_Click" Grid.Column="1"/>
+        <TextBlock Name="StatusTextBlock" Margin="142,8,-35,10" TextWrapping="Wrap" Text="Waiting..." Grid.Column="1"/>
+    </Grid>
+</Window>
