@@ -5,7 +5,7 @@ A small portable windows GUI application to quickly modify the scripts of Little
 Dango Script relies on and includes binaries for both [LucaSystemTools](https://github.com/wetor/LucaSystemTools/tree/lb_en) and [LuckSystem](https://github.com/wetor/LuckSystem).
 
 # Installation
-Simply download dangoscript.zip and extract the contents to any location of the user's choosing, so long as it has user write permissions.
+Simply [download dangoscript.zip](https://github.com/niikokomo/dangoscript/releases/tag/dango) and extract the contents to any location of the user's choosing, so long as it has user write permissions.
 
 # Usage
 
