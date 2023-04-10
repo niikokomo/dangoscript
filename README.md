@@ -25,6 +25,8 @@ If for any reason the program is referencing the incorrect directory or no direc
 ### Restore Backup
 This will restore the scripts to their default state, prior to any edits.
 
+### [Video Demo (May contain spoilers!)](https://files.catbox.moe/gzkjz0.mp4).
+
 # Script Editing
 
 I may expand this section in the future as needed, but for now, here's how to freely change lines of dialogue.
