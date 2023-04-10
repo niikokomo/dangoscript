@@ -1,5 +1,5 @@
 # Dango Script
-A small portable windows GUI application to quickly modify the scripts of Little Busters! English Edition.
+A small portable Windows GUI application to quickly modify the scripts of Little Busters! English Edition.
 
 # Credits
 Dango Script relies on and includes binaries for both [LucaSystemTools](https://github.com/wetor/LucaSystemTools/tree/lb_en) and [LuckSystem](https://github.com/wetor/LuckSystem).
