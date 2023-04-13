@@ -4,6 +4,10 @@ A small portable Windows GUI application to quickly modify the scripts of Little
 # Credits
 Dango Script relies on and includes binaries for both [LucaSystemTools](https://github.com/wetor/LucaSystemTools/tree/lb_en) and [LuckSystem](https://github.com/wetor/LuckSystem).
 
+# Dependencies
+
+LucaSystemTools requires the [.NET Core 3.1 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer).
+
 # Installation
 Simply [download dangoscript.zip](https://github.com/niikokomo/dangoscript/releases/tag/dango) and extract the contents to any location of the user's choosing, so long as it has user write permissions.
 
